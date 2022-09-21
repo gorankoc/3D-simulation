@@ -1,0 +1,10 @@
+#include "DarkGDK.h"
+
+#define PATH_AIRPLANEMODEL	"MEDIA\\ver 3.X"
+#define PATH_AIRPLANETEXTURE "MEDIA\\sivo.jpg"
+#define PATH_MAP			"MEDIA\\map.bmp"
+#define PATH_MAPDETAIL		"MEDIA\\detail.jpg"
+#define PATH_MAPTEXTURE		"MEDIA\\texture.jpg"
+#define PATH_SKYBOXXMODEL	"MEDIA\\skybox2.x"
+#define CHECKPOINTS_TXT		"CheckPoints.txt"
+#define PATH_PARTICLETEXTURE "Media\\fire.bmp"
